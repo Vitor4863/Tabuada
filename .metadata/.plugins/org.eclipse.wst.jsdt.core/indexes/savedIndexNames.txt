@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\T-GAMER\Desktop\ExercicioTabuada\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2556478198.index
+3135037751.index
+3544156645.index
+3136765272.index
+3240477606.index
+3199926850.index
+1710705154.index
